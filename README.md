@@ -14,5 +14,5 @@ To get a taste of it, run:
     python spoiler_core.py
     
 ## Hacking
-Just import the `SpoilerCore` class in your code, and call `getRandomSpoiler()`
+Just import the `SpoilerCore` class in your code, and call `getRandomSpoiler()`  
 I may create a proper python package someday.
